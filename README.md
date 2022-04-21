@@ -1,5 +1,5 @@
 # Bash-Scripts
-This script will produce you a handy info like `Hostname`, `RedHat Vesrion`, `Kernel Version` and `Last Patch Time` for your RedHat Linux Systems. 
+This script(`Check_RHEL_Patch_Version.bash`) will produce you a handy info like `Hostname`, `RedHat Vesrion`, `Kernel Version` and `Last Patch Time` for your RedHat Linux Systems. 
 
 #Result
 
