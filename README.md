@@ -1,10 +1,11 @@
 # Bash-Scripts
-# Common small bash snippets
-Result
+This script will produce you a handy info like `Hostname`, `RedHat Vesrion`, `Kernel Version` and `Last Patch Time` for your RedHat Linux Systems. 
+
+#Result
 
 ```
 |--------------------------------------------------------------------------------------------------------------------|
-| Hostname             | RedHat Vesrion  | Kernel Version                      | Last Patch                          |
+| Hostname             | RedHat Vesrion  | Kernel Version                      | Last Patch Time                     |
 |--------------------------------------------------------------------------------------------------------------------|
 | fsx2088              | 7.9             | kernel-3.10.0-1160.15.2.el7.x86_64  | Sat 27 Feb 2021 01:28:47 PM IST     |
 | fsx0259              | 7.9             | kernel-3.10.0-957.el7.x86_64        | Fri 17 Jul 2020 11:34:52 AM IST     |
