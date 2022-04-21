@@ -16,3 +16,12 @@ This script(`Check_RHEL_Patch_Version.bash`) will produce you a handy info like 
 | fsx5010              | 7.9             | kernel-3.10.0-1160.25.1.el7.x86_64  | Fri 02 Jul 2021 03:12:08 PM IST     |
 |--------------------------------------------------------------------------------------------------------------------|
 ```
+
+
+# 2) nslookup_IP_to_name.bash
+This is a small but handy snippet to quickly `nslookup` across a long list of servers on Linux, which translates IP address to its hostnames.
+
+
+
+# 3) nslookup_name_to_IP.bash
+This is a small but handy snippet to quickly `nslookup` across a long list of servers on Linux, which translates hostnames to IP address.
