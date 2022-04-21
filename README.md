@@ -27,3 +27,6 @@ This is a small but handy snippet to quickly `nslookup` across a long list of se
 
 # 3) nslookup_name_to_IP.bash
 This is a small but handy snippet to quickly `nslookup` across a long list of servers on Linux, which translates hostnames to IP address.
+
+# 4) ping_parallel.bash
+This is just plain nice script to get a quick ping test and results of Linux hosts.
